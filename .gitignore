@@ -1,0 +1,11 @@
+# サムネイルキャッシュ（Base64でHTMLに埋込済み）
+photos/
+
+# 暗号化前のHTMLファイル
+_raw.html
+
+# StatiCrypt一時ディレクトリ
+encrypted/
+
+# ジオコーディングキャッシュ（ローカルのみ）
+geocode_cache.json
